@@ -46,7 +46,8 @@ Raw files were manually edited to remove two ‘/n’ empty lines at the end
 of each fastq file
 
 ### DATA PROCESSING:
-Data was processed using the RNA Detector Software:
+Data was processed using the RNA Detector Software: 
+https://github.com/alessandrolaferlita/RNAdetector
 
 La Ferlita A, Alaimo S, Di Bella S, Martorana E, Laliotis GI, Bertoni F
 Cascione L, Tsichlis PN, Ferro A, Bosotti R, Pulvirenti A. 
