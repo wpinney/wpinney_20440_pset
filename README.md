@@ -7,8 +7,8 @@ Single Cell RNA Sequencing on Mouse Thymic Epithelial Cells.
 The output figure plots the number of transcripts per gene of five mouse
 Thymic Epithelial Cells.
 
-### DATA :
-#DATA SOURCE:
+# DATA :
+### DATA SOURCE:
 The source for all data in this repository is:
 
 Sansom SN, Shikama-Dorn N, Zhanybekova S, Nusspaumer G et al. Population
@@ -78,11 +78,12 @@ Contains a .png containing the figure output from example_figures.py
 
 # INSTALLATION:
 This code was tested with the following software packages and version:
-RNA DETECTOR v 0.0.4
 
-RNA DETECTOR CONTAINER v 0.0.3
+RNA Detector v 0.0.4
 
-DOCKER DESKTOP 4.5.0
+RNA Detector Container v 0.0.3
+
+Docker Desktop 4.5.0
 
 matplotlib==3.5.0
 
