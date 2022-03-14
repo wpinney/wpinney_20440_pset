@@ -7,7 +7,7 @@ Single Cell RNA Sequencing on Mouse Thymic Epithelial Cells.
 The output figure plots the number of transcripts per gene of five mouse
 Thymic Epithelial Cells.
 
-# DATA :
+### DATA :
 #DATA SOURCE:
 The source for all data in this repository is:
 
@@ -41,11 +41,11 @@ NCBI Sequence Read Archive (SRA)
 https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software 
 Sequence Read Archive Team
 
-DATA PREPROCESSING:
+### DATA PREPROCESSING:
 Raw files were manually edited to remove two ‘/n’ empty lines at the end
 of each fastq file
 
-DATA PROCESSING:
+### DATA PROCESSING:
 Data was processed using the RNA Detector Software:
 
 La Ferlita A, Alaimo S, Di Bella S, Martorana E, Laliotis GI, Bertoni F
@@ -60,23 +60,23 @@ Assembly of RNA Sequence reads, and counting of transcript number was done
 according to standard methods in the RNA Dectector software using the 
 mouse mm10 reference sequencep resent in this package.
 
-FOLDER STRUCTURE
+# FOLDER STRUCTURE
 
 assembled_raw_data: 
 Contains .txt files output from the assembly of sequencing data by RNA
 Detector, files are named according to the SRA accession number for the
 raw data.
 
-scripts:
+### scripts:
 Contains the example_figure.py script used to generate an example figure 
 based on this RNA Seq Data. The output, js a scatter plot showing expression 
 levels of each gene in the analysis from the five single cell data sets 
 included as data.
 
-figures:
+### figures:
 Contains a .png containing the figure output from example_figures.py
 
-INSTALLATION:
+# INSTALLATION:
 This code was tested with the following software packages and version:
 RNA DETECTOR v 0.0.4
 
