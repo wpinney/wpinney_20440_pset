@@ -37,7 +37,8 @@ GEO/SRA accessionnumbers for these files is as follows:
 (5) GSM1470415 / SRX674340
 
 Data was downloaded in .fastq format from the 
-NCBI Sequence Read Archive (SRA)
+NCBI Sequence Read Archive (SRA):
+
 https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software 
 Sequence Read Archive Team
 
