@@ -1,4 +1,4 @@
-# README
+README
 
 # OVERVIEW:
 This repository provides data and code to run an example comparison of
@@ -7,7 +7,7 @@ Single Cell RNA Sequencing on Mouse Thymic Epithelial Cells.
 The output figure plots the number of transcripts per gene of five mouse
 Thymic Epithelial Cells.
 
-#DATA :
+# DATA :
 #DATA SOURCE:
 The source for all data in this repository is:
 
